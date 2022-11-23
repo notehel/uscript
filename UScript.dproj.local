@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019-09-23 23:19:33.400.pas,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.pas=C:\work\project\mycode2010\main.pas</Transaction>
+    <Transaction>2019-09-23 23:19:33.400.dfm,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.dfm=C:\work\project\mycode2010\main.dfm</Transaction>
+    <Transaction>2019-09-23 23:19:37.115.dproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Project1.dproj=C:\work\project\mycode2010\MakeCode.dproj</Transaction>
+    <Transaction>2019-09-24 01:33:49.507.pas,C:\work\project\mycode2010\lib\Unit1.pas=C:\work\project\mycode2010\lib\codeEdit.pas</Transaction>
+    <Transaction>2019-09-24 01:33:49.507.dfm,C:\work\project\mycode2010\lib\Unit1.dfm=C:\work\project\mycode2010\lib\codeEdit.dfm</Transaction>
+    <Transaction>2022-07-04 11:58:01.591.dproj,C:\work\project\makecode\MakeCode.dproj=C:\work\project\uscript\UScript.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\project"/>
+    <File Path="..\makecode"/>
+    <File Path="..\makecode\codeEdit.pas"/>
+    <File Path="..\makecode\codeEdit.dfm"/>
+    <File Path="..\makecode\luaAction.pas"/>
+    <File Path="..\makecode\main.pas"/>
+    <File Path="..\makecode\setting.pas"/>
+    <File Path="..\makecode\lib"/>
+    <File Path="..\makecode\lib\lua"/>
+    <File Path="..\makecode\lib\lua\Lua.pas"/>
+    <File Path="..\makecode\lib\lua\lua52.pas"/>
+    <File Path="..\makecode\lib\lua\LuaLib.pas"/>
+    <File Path="..\makecode\lib\pcre"/>
+    <File Path="..\makecode\lib\pcre\pcre.pas"/>
+    <File Path="..\makecode\lib\pcre\PerlRegEx.pas"/>
+    <File Path="..\makecode\lib\scintilla"/>
+    <File Path="..\makecode\lib\scintilla\DScintillaCustom.pas"/>
+    <File Path="..\makecode\lib\scintilla\DScintillaTypes.pas"/>
+    <File Path="..\makecode\lib\scintilla\DScintilla.pas"/>
+    <File Path="..\makecode\lib\scintilla\DScintillaUtils.pas"/>
+    <File Path="..\makecode\lib\funs.pas"/>
+    <File Path="..\makecode\lib\uLkJSON.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

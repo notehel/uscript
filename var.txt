@@ -1,0 +1,22 @@
+﻿{$DEFINE ME_DEBUG}    //是否调试
+
+{$A8,B-,C+,E-,F-,G+,H+,I+,J-,K-,M-,N+,O+,P+,Q-,R-,S-,T-,U-,V+,W-,X+,Z1}
+
+{$DEFINE STATIC_OBJ}
+
+{$WARN UNSAFE_TYPE OFF}
+
+{$WARNINGS OFF} //关闭警告
+
+//{$DEFINE _WRITELOG}    //记录日志
+//{$DEFINE SMALLICON}   //显示右下角图标
+
+{$DEFINE _USERESHTML}   //使用资源里的页面
+
+{$IFDEF ME_DEBUG}
+    {$D+,L+,YD}  //调试
+    {$DEFINE _DEBUGVERSION}   //使用内存监测
+{$ELSE}
+    {$D-,L-,Y-}  //不显示调试
+{$ENDIF}
+
